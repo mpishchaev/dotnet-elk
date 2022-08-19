@@ -1,7 +1,7 @@
 # dotnet-elk
 WebAPI + ElasticSearch &amp; Kibana
 
-## To Run ELK got to elk folder and run:
+## To Run ELK go to elk folder and run:
 - docker-compose up -d
 
 The following URLs should become available:
